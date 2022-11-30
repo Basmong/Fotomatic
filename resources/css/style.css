@@ -278,6 +278,10 @@ header .logo {
     border: none;
   }
 
+  #sign-up-cta .header {
+    text-align: center;
+  }
+
   #sign-up-cta .content {
     margin-top: 0;
   }
