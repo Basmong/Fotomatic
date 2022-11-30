@@ -280,7 +280,7 @@ header .logo {
 
   #sign-up-cta .header {
     text-align: center;
-    
+
   }
 
   #sign-up-cta .content {
@@ -392,9 +392,11 @@ header .logo {
   #features-section {
     flex-flow: column;
     padding: 0;
+    justify-content: flex-start;
   }
 
   .feature {
+    flex-basis: 370px;
     margin: 0;
     padding: 1.25rem 1rem 0 1rem;
   }
